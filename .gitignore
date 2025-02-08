@@ -1,0 +1,14 @@
+node_modules/
+.env
+logs/
+*.log
+npm-debug.log*
+/dist
+/build
+/test-coverage
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
